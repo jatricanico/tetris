@@ -8,7 +8,7 @@ const COLORS = [
   null,
   '#4dd0e1', // I - cyan
   '#ffd54f', // O - yellow
-  '#ba68c8', // T - purple
+  '#ffffff', // T - white
   '#81c784', // S - green
   '#e57373', // Z - red
   '#7986cb', // J - indigo
